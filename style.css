@@ -1,0 +1,32 @@
+html {
+  font-size: 16px; /* 1 rem = 16px */
+}
+
+p,
+ul {
+  font-family: "Poppins", sans-serif;
+  font-size: 1rem;
+}
+
+h1 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 2.5rem;
+}
+
+.green-text {
+  color: green;
+  font-weight: 600;
+  font-size: 1.5rem;
+}
+
+.blue-text {
+  color: rgb(0, 132, 255);
+  font-weight: 400;
+  font-size: 1.2rem;
+}
+
+hr {
+  border: 0.1rem solid black;
+}
